@@ -6,5 +6,6 @@ reversed_stirng = []
 myArray = r.split()
 myArray.each{ |word |reversed_stirng.push(word.reverse)}
 
-reversed_stirng.join(" ")
+new = reversed_stirng.join(" ")
+new
 end
