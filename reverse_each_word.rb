@@ -1,6 +1,5 @@
-def reverse_each_word 
+def reverse_each_word(r)
   
-r = reverse_each_word
 reversed_stirng = []
 
 myArray = r.split()
